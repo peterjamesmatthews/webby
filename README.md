@@ -10,4 +10,4 @@ These include...
 **webby** will be entirely written in flask and react
 
 ## Where is webby used?
-**webby** will be used on my domain pjmatthews.dev (as soon as I get an SSL cert.)
+**webby** is used to power pjmatthews.dev
