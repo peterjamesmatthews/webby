@@ -7,7 +7,7 @@ These include...
 3. other things...
 
 ## What makes webby tick?
-**webby** will be entirely written in flask and react
+**webby** will be entirely written in flask
 
 ## Where is webby used?
 **webby** is used to power pjmatthews.dev
