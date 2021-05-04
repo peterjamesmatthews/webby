@@ -1,13 +1,8 @@
 # webby
-**webby** is my personal website that houses all of my web-based creations.
-
-These include...
-1. Micro-blog
-2. Online Resume
-3. other things...
+**webby** is my personal website that will house all of my web-based projects.
 
 ## What makes webby tick?
-**webby** will be entirely written in flask
+**webby** will be a single-page application powered by React
 
 ## Where is webby used?
-**webby** is used to power pjmatthews.dev
+**webby** will be used to power my personal and professional domain pjmatthews.dev
