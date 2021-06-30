@@ -34,5 +34,6 @@ Webby is web application built for hosting my personal and professional website 
 - write frontend tests (jest)
 - setup end2end tests (????)
 - write build script
+- write deploy script
 - containerize webby
 - setup github actions to run testing suite
