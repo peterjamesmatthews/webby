@@ -1,9 +1,9 @@
-import React from 'react';
+import '@testing-library/jest-dom';
 import { render, screen } from '@testing-library/react';
 import App from '.';
 
-test('renders learn react link', () => {
+test('renders current time', () => {
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+  const currentTime = screen.getByText(/current time/i);
+  expect(currentTime).toBeInTheDocument();
 });
