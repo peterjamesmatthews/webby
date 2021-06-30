@@ -1,1 +1,22 @@
-{}
+{
+  // ---------------Editor------------------------------------------------------
+  "editor.rulers": [   // vertical ruler at the end of col 80
+    80
+  ],
+  "editor.wordWrap": "wordWrapColumn", // defer word wrap to wordWrapColumn
+  "editor.wordWrapColumn": 80, // wrap lines longer than 80 characters
+  "editor.insertSpaces": true, // insert spaces for tabs
+  "editor.detectIndentation": false, // disable deteching indentations
+  // ---------------Python------------------------------------------------------
+  "[python]": { // pep8
+    "editor.tabSize": 4 // python indents are 4 spaces
+  },
+  "python.formatting.provider": "yapf",  // set python formatter
+  "python.linting.enabled": true,  // enable linting python code
+  "python.linting.pycodestyleEnabled": true,  // use pycodestyle (pep8)
+  //---------------JavaScript-----------------------------------------------------
+  "[javascript]": { //eslint
+    "editor.tabSize": 2 // javascript indents are 2 spaces
+  },
+  // TODO: set up JavaScript linter and formatter
+}

@@ -3,8 +3,8 @@ import './App.scss';
 
 type Props = {};
 type State = {
-  now: Date | undefined,
-  num: number | undefined,
+  now: Date | undefined,  // TODO: raise to global state
+  num: number | undefined,  // TODO: raise to global state via thunk
   timer_id: any | undefined  // TODO: find meaningful type
 }
 class App extends React.Component<Props, State> {
