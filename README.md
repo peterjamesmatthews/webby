@@ -5,16 +5,13 @@ Webby is web application built for hosting my personal and professional website 
 
 <table>
   <thead>
-    <th colspan="2">Front-end</th>
+    <th colspan="1">Front-end</th>
     <th colspan="2">Backend</th>
   </thead>
   <tbody>
     <tr>
       <td>
-        React-Redux
-      </td>
-      <td>
-        Redux-Thunks
+        TypeScript React
       </td>
       <td>
         Flask
