@@ -5,6 +5,8 @@
     "eamodio.gitlens",
     "shd101wyy.markdown-preview-enhanced",
     "ms-python.python",
-    "vscode-icons-team.vscode-icons"
+    "vscode-icons-team.vscode-icons",
+    "ms-python.vscode-pylance",
+    "esbenp.prettier-vscode"
   ]
 }

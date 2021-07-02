@@ -27,6 +27,7 @@ Webby is web application built for hosting my personal and professional website 
 </table>
 
 ## TODO
+- setup eslint
 - setup request/success/failure end2end communication via redux thunks
 - design personal website
 - setup database

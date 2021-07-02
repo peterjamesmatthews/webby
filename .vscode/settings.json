@@ -15,8 +15,13 @@
   "python.linting.enabled": true,  // enable linting python code
   "python.linting.pycodestyleEnabled": true,  // use pycodestyle (pep8)
   //---------------JavaScript-----------------------------------------------------
-  "[javascript]": { //eslint
+  "[javascript]": {
     "editor.tabSize": 2 // javascript indents are 2 spaces
   },
-  // TODO: set up JavaScript linter and formatter
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ]
 }
