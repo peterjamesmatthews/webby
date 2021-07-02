@@ -1,6 +1,6 @@
 import '@testing-library/jest-dom';
 import { render, screen } from '@testing-library/react';
-import App from '.';
+import { App } from '.';
 
 test('renders current time', () => {
   render(<App />);

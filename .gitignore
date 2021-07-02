@@ -1,4 +1,6 @@
 # app dependencies
 app/node_modules
+# don't track built app
+app/build/*
 # python caching
 __pycache__
